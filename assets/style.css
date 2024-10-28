@@ -1,4 +1,8 @@
-style.css 
+:root {
+    --text-color: #DBE4EF;
+    --card-front-color: #144480;
+    --card-back-color: #00F4BF;
+}
 
 body {
     background: url('img/bg-desktop.webp');
@@ -63,8 +67,3 @@ footer p {
     margin-top: 0.5rem;
 }
 
-:root {
-    --text-color: #DBE4EF;
-    --card-front-color: #144480;
-    --card-back-color: #00F4BF;
-}
